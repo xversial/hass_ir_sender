@@ -1,0 +1,9 @@
+send:
+  description: Sends an IR command to a device.
+  fields:
+    command:
+      description: The IR command to send.
+      example: "sendir,1:3,8,38109,1,1,...,21,4878"
+    device_ip:
+      description: The device IP to send the command to (optional, defaults to bedroom ip2ir hostname).
+      example: "192.168.0.123"

@@ -1,0 +1,9 @@
+{
+  "domain": "ir_sender",
+  "name": "IR Sender",
+  "version": "1.0",
+  "documentation": "https://duvallwifi.com",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}
